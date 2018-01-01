@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\WaterOnOff.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\manualOff.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PickUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\SpiderScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\ActivateNumberPad.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\TurnWaterOn.cs" Line="17" Column="33" />
+      <File FileName="Assets\_Scripts\ZombieDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\TeleportScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CloseSafeDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PaperScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CloseDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CloseDoorSecondRow.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Trash2Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\CorpseDrawerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\BlackboardScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\SafeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\TapeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\TapeRecorder.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\WaterOnOff.cs" Line="31" Column="17" />
+      <File FileName="Assets\_Scripts\Crawler.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Wackeln.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Gamemanager.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Fading.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\PlayBoom.cs" Line="1" Column="1" />
+      <File FileName="Assets\Key.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

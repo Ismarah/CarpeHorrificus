@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpe_Horrificus", "Assembly-CSharp.csproj", "{65213C76-0261-3CE3-D25C-2BBB645FD66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carpe_Horrificus", "Assembly-CSharp-Editor.csproj", "{5F5875E5-B0AC-ABC0-DB58-8B9A00BF896F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65213C76-0261-3CE3-D25C-2BBB645FD66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65213C76-0261-3CE3-D25C-2BBB645FD66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65213C76-0261-3CE3-D25C-2BBB645FD66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65213C76-0261-3CE3-D25C-2BBB645FD66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5875E5-B0AC-ABC0-DB58-8B9A00BF896F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5875E5-B0AC-ABC0-DB58-8B9A00BF896F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5875E5-B0AC-ABC0-DB58-8B9A00BF896F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5875E5-B0AC-ABC0-DB58-8B9A00BF896F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
